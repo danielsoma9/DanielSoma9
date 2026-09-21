@@ -4,7 +4,6 @@
 - 🚀 I'm a **Data Analyst**
 - 🎓 I studied a degree in **International Business** and a specialty in **Data Analysis** and **Financial Analysis**
 - 🧩 I have experience building **data pipelines**, **automated reports** and **dashboards**
-- 💬 Ask me about **AI, Data Science and Machine Learning**
 - 📫 Reach me at [danielsoma99@gmail.com](mailto:danielsoma99@gmail.com)
 
 ## Languages
